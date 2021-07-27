@@ -1,0 +1,104 @@
+case,restaurant,price,gReviews,gRating,yReviews,yRating,latitude,longitude,town
+2,Sun Shui,2,324,4.5,154,4,42.9198265,-71.4610061,Bedford
+4,Chen Yang Li B,2,468,4.2,83,3,43.1700561,-71.5355583,Bow
+6,Dragon Star,2,126,4.2,28,3.5,43.2003921,-71.5326577,Concord
+11,Siam Orchid Thai,2,417,4.2,80,3.5,43.2046581,-71.5354691,Concord
+12,Splendid Sushi,2,135,4.9,8,4.5,43.2040048,-71.5367319,Concord
+13,Szechuan Garden,2,386,4.1,39,3.5,43.2592964,-71.5798842,Concord
+14,Tea Garden,2,342,4.2,49,3,43.2098485,-71.5370626,Concord
+15,China Garden,1,144,3.9,74,3.5,42.8982996,-71.3354732,Derry
+19,Sumo Sushi,2,327,4.4,74,4,42.8905183,-71.3242622,Derry
+21,Golden Leaf,2,78,3.8,21,3,42.8912591,-71.1393071,East Hampstead
+22,Happy Family,2,291,4.3,23,3,43.2302171,-71.3614148,Epsom
+23,Osaka,2,192,4,50,3,42.8876912,-71.1490267,Hampstead
+24,Asian Breeze,2,386,4.4,87,4,43.0532151,-71.4422329,Hooksett
+25,Dynamite Sushi,2,249,4.4,150,4,42.7590671,-71.4308581,Hudson
+30,Bangkok Thai Food,2,192,4.7,111,4.5,42.8664021,-71.3492072,Londonderry
+32,Jay House,2,158,3.9,68,3,42.8461725,-71.3599282,Londonderry
+33,Super Wok,2,250,4,71,3.5,42.8574005,-71.3562158,Londonderry
+34,Aloha Restaurant,2,481,4.2,85,3,42.9864025,-71.4265313,Manchester
+38,Bonsai's,2,334,4.2,54,3.5,43.0048033,-71.3928856,Manchester
+39,Buba Noodle,3,376,4.5,137,4,42.9936782,-71.4619771,Manchester
+40,Canton Garden,1,60,3.1,13,2.5,42.9953328,-71.4791759,Manchester
+43,Daw Kun Thai,2,380,4.6,182,4.5,42.9376432,-71.4543754,Manchester
+44,Golden Karma,3,81,4.2,37,4.5,42.9738137,-71.4582241,Manchester
+45,Golden Tao,1,406,4.4,176,4.5,42.9929452,-71.4812199,Manchester
+49,Hong Kong City,1,82,4.1,34,3.5,42.9854532,-71.4201709,Manchester
+52,Masa Japanese,2,1135,4.4,244,3.5,42.9512735,-71.4358979,Manchester
+53,Mint Bistro,3,468,4.6,247,4,42.9938432,-71.4628244,Manchester
+54,Muse Thai Bistro,2,256,4.1,167,3.5,42.9747542,-71.4762861,Manchester
+56,No.1 Chinese,2,159,4.1,48,3.5,42.9735284,-71.4639595,Manchester
+58,Pho Golden Bowl,2,392,4.5,90,4,42.9873522,-71.4626046,Manchester
+62,Ubon Thai,2,133,4.8,42,4.5,42.9938922,-71.5060463,Manchester
+63,Yee Dynasty,2,598,3.6,65,2.5,42.9641667,-71.4438889,Manchester
+64,Yuki Japanese,2,421,4.3,138,4,42.9661651,-71.4525056,Manchester
+67,Hana Japanese,3,82,4.8,39,4.5,42.8373447,-71.4990912,Merrimack
+68,Sweet Ginger,2,377,4.5,265,4,42.8375833,-71.4976514,Merrimack
+69,Xing Wang 888,1,148,4.2,57,4,42.8054337,-71.5453892,Merrimack
+73,Lilac Blossom,2,591,4.3,103,3.5,42.7074361,-71.4677518,Nashua
+74,Mint Café,1,373,4.2,45,3.5,42.7644679,-71.4639386,Nashua
+78,Sakura Asian,2,464,4.5,95,3.5,42.7199811,-71.4416392,Nashua
+79,San Francisco,2,264,4.2,83,3.5,42.7616508,-71.4658753,Nashua
+87,YouYou Japanese,2,465,4.5,133,3.5,42.7674229,-71.4947409,Nashua
+88,Mei's,2,116,3.7,46,3.5,43.1308592,-71.4526561,Pembroke
+89,Asian Taste,1,76,4.4,21,4,43.2672248,-71.5874722,Penacook
+90,Chang Long,1,93,4.1,51,4,42.8495431,-71.1049768,Plaistow
+91,Sushi Time,2,542,4.7,112,4,42.8167799,-71.1016661,Plaistow
+92,Lucky Dragon,1,231,3.9,37,2.5,42.7544518,-71.2078003,Salem
+94,New Chief Wok,2,174,4.4,53,3.5,42.7897235,-71.2337099,Salem
+97,TOMO Japanese,2,848,4.5,201,4,42.7514172,-71.2062622,Salem
+98,Umi of Japan,1,26,3.5,16,2,42.7673911,-71.2321917,Salem
+100,Yang Ming,2,517,4.4,165,4,42.7542287,-71.2073714,Salem
+102,Li's Asian Gourmet,2,40,4.2,25,2.5,42.7924735,-71.3047589,Windham
+60,Thai Food Connection,3,79,4.8,25,4.5,42.9932866,-71.4628567,Manchester
+46,Gurung's Kitchen,2,30,4.9,6,5,43.0066747,-71.4614555,Manchester
+83,Thailand Express,2,44,3.4,4,3,42.7010792,-71.436646,Nashua
+95,Thai Chili,2,189,4.4,108,3.5,42.7454184,-71.2007923,Salem
+59,Ruby Thai,2,31,3.4,12,2.5,42.9564947,-71.4319032,Manchester
+93,Mei Hoo,1,165,3.9,32,3,42.7859962,-71.2329778,Salem
+35,Asian Kabab,1,87,4.5,42,4.5,42.9830374,-71.4402314,Manchester
+71,Crane Restaurant,2,260,4.3,76,3.5,42.7598034,-71.4668628,Nashua
+82,Takumi Sushi,2,842,4.4,186,3.5,42.7164931,-71.4431831,Nashua
+27,Panda Gourmet,2,152,4.2,16,3,42.7729422,-71.4446745,Hudson
+20,Sun Asian Bistro,1,165,4.5,50,4,42.8762076,-71.3338709,Derry
+37,Beijing Cuisines,2,151,4.2,27,3,42.9372643,-71.4537924,Manchester
+72,Golden Dragon,2,310,2.7,58,2,42.7509013,-71.4601139,Nashua
+17,Lei's Garden,2,151,3.8,30,2.5,42.8635607,-71.2882859,Derry
+70,China City Express,2,36,3.2,5,3,42.7012441,-71.4363898,Nashua
+8,Man Yee,2,261,4.2,5,2.5,43.1946211,-71.5391071,Concord
+9,Man Yee Express,2,32,3.7,7,3.5,43.2139968,-71.5122625,Concord
+31,Crazy Noodle,2,156,4.7,92,4,42.8660382,-71.3483768,Londonderry
+99,Wasabi Steak,2,413,4.4,113,3,42.7925001,-71.2341667,Salem
+75,Pan Asia,1,213,4.1,29,3,42.7703215,-71.4807975,Nashua
+3,Taipei Tokyo,2,248,4.4,64,3,42.9643496,-71.4829714,Bedford
+48,Heng Won,2,328,4.1,57,2.5,42.9817687,-71.4328064,Manchester
+77,Pho Street,1,171,4.5,58,4.5,42.7875905,-71.5130399,Nashua
+36,Bamboo Garden,2,258,4,47,2.5,42.9832085,-71.4490091,Manchester
+55,New Wa Toy,2,407,4.2,40,3.5,42.9972173,-71.5122221,Manchester
+47,Happy Garden,2,131,3.9,30,3,43.0199184,-71.4495716,Manchester
+57,North Garden,2,484,4.3,80,3.5,42.9922342,-71.5028604,Manchester
+10,Morimoto Japanese,2,501,4.5,159,4,43.2117411,-71.5298625,Concord
+42,Chens Garden,2,569,4.3,130,3.5,42.9679481,-71.4797021,Manchester
+66,China Max,2,53,3.4,12,3,42.8263932,-71.5002884,Merrimack
+5,Beijing & Tokyo,2,302,4,68,4.5,43.2010981,-71.5336557,Concord
+65,aRincha Thai,2,94,4.6,31,4,42.8258906,-71.5120489,Merrimack
+1,Chen Yang Li,2,310,4.2,81,3,42.9533333,-71.4794444,Bedford
+29,Asahi Restaurant,2,224,4.2,76,4,42.8675987,-71.3483126,Londonderry
+84,Thon Khao Thai,2,158,4.2,87,3.5,42.7878991,-71.5134585,Nashua
+86,Yoshimama,2,475,4.6,218,4.5,42.7876036,-71.5130458,Nashua
+28,SoHo Asia,2,262,4,61,3,42.7567362,-71.4320994,Hudson
+101,Kumo Sushi,2,221,4.8,93,4,42.8062061,-71.2958201,Windham
+16,Dim Sum,1,97,3.7,24,2.5,42.8904349,-71.3273251,Derry
+7,Ichiban Japanese,2,1032,4.5,101,3.5,43.1889316,-71.5058883,Concord
+96,Tokyo Japanese,2,227,4.3,73,3.5,42.7590802,-71.2113685,Salem
+18,Lucky Panda,2,48,4,10,3,42.8817661,-71.3242764,Derry
+80,Sarku Japan,2,167,4,12,3.5,42.7010171,-71.4369865,Nashua
+51,Lemon Thai,2,98,4.6,46,4,42.9759769,-71.4792565,Manchester
+81,Shanghai Osaka,2,284,4.2,94,3.5,42.7042233,-71.4435899,Nashua
+76,Panda Express,2,276,3.6,29,2.5,42.7130994,-71.4430347,Nashua
+26,New Nan King,2,356,3.5,58,3,42.7711761,-71.4116017,Hudson
+85,Wok N Roll,2,107,4.3,27,4,42.7538852,-71.4626963,Nashua
+61,Thousand Crane,2,176,3.5,99,3,42.9925592,-71.4636954,Manchester
+50,Kisaki Japanese,2,590,4.4,112,4,42.9873534,-71.4628392,Manchester
+41,Cheng Du Kitchen,2,31,4.5,41,3.5,43.0169591,-71.4498875,Manchester
+103,Jade Garden,2,96,4.2,26,4,43.0482813,-71.4347835,Hooksett
